@@ -1,0 +1,10 @@
+[
+    {
+        "tenantId": "TD_1234",
+        "paymentId": "PD_1234",
+        "serviceId": "SD_1234",
+        "paymentStatus": "Pending",
+        "apiKey": "API_23456",
+        "isActive": true
+    }
+]

@@ -1,0 +1,11 @@
+[
+    {
+        "partnerId": "PD_1234",
+        "paymentId": "PY_1234",
+        "period": "18/11/2025",
+        "totalAmount": "RM2500",
+        "paymentStatus": "Pending",
+        "tenantInvoices": "TID_1234",
+        "dueDate": "25/11/2025"
+    }
+]

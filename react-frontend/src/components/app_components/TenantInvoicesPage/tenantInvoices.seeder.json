@@ -1,0 +1,9 @@
+[
+    {
+        "tenantId": "TD_1234",
+        "period": "18/11/2025",
+        "totalAmount": "RM2500",
+        "usageLogs": "ULD_1234",
+        "generatedAt": "17/11/2025"
+    }
+]

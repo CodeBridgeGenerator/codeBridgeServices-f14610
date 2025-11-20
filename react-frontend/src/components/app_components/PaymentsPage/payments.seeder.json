@@ -1,0 +1,11 @@
+[
+    {
+        "sessionId": "SD_1234",
+        "paymentStatus": "Paid",
+        "paymentType": "Online Banking",
+        "amount": 2500,
+        "currency": "MYR",
+        "paymentIntendId": "PID_1234",
+        "payedAt": "19/11/2025"
+    }
+]

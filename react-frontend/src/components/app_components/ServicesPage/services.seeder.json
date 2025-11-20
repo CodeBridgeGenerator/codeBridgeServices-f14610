@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Amirul",
+        "description": "Need to do a Application",
+        "initialPrice": 2500,
+        "metricName": "New Project",
+        "metricUnit": "Count",
+        "ratePerUnit": 25,
+        "isActive": true,
+        "calculationFn": "total_revenue / total_orders"
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "tenantServices": "SD_1234",
+        "apiKey": "API_23456",
+        "requestId": "RID_1234",
+        "unitsConsumed": 2,
+        "unitRate": 560,
+        "cost": 1120,
+        "metaData": "TUD_34567",
+        "dateOfUsage": "20/12/2025"
+    }
+]
